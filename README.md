@@ -10,7 +10,7 @@ This repository contains the source code and data for the paper "A String-Theore
 
 We establish the Riemann Hypothesis (RH) as a physical law by demonstrating that the non-trivial zeros of the Riemann zeta function $\zeta(s)$ are the eigenvalues of a specific string-theoretic Hamiltonian. Numerical simulations for the first 100,000 zeros reproduce the Hamiltonian's spectrum with an average error of **0.0402%**. The theory is further supported by holographic duality, BPS state verification, and GUE statistics, and makes a testable prediction of particle resonances at **~14.13 TeV**.
 
-## Key Results Visualization
+## Key Results Visualisation
 
 ![Spectrum Comparison](results/spectrum_comparison_100000.png)
 *Figure 1: Comparison of the true Riemann zeros and the computed eigenvalues of the Hamiltonian for N=100,000.*
@@ -19,7 +19,7 @@ We establish the Riemann Hypothesis (RH) as a physical law by demonstrating that
 
 If you use this work, please cite our preprint:
 
-> Anonymous Collaborative Team. (2025). *A String-Theoretic Proof of the Riemann Hypothesis*. arXiv:XXXX.XXXXX [hep-th, math.NT].
+> PAvol Horelican, Jr. (2025). *A String-Theoretic Proof of the Riemann Hypothesis*. arXiv:XXXX.XXXXX [hep-th, math.NT].
 
 ## Installation & Usage
 
