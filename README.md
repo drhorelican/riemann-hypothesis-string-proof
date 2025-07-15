@@ -19,7 +19,7 @@ We establish the Riemann Hypothesis (RH) as a physical law by demonstrating that
 
 If you use this work, please cite our preprint:
 
-> PAvol Horelican, Jr. (2025). *A String-Theoretic Proof of the Riemann Hypothesis*. arXiv:XXXX.XXXXX [hep-th, math.NT].
+> Pavol Horelican, Jr. (2025). *A String-Theoretic Proof of the Riemann Hypothesis*. arXiv:XXXX.XXXXX [hep-th, math.NT].
 
 ## Installation & Usage
 
